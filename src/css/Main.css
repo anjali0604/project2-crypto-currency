@@ -1,0 +1,15 @@
+.class1 {
+    border: 2px solid black;
+    font-weight: 500;
+}
+.class1 ul {
+    list-style-type: none;
+    padding: 1em;
+}
+.class1 img{
+    max-width: 90%;
+    margin: 1em auto;
+}
+.class2 {
+    border-top: 2px solid black;
+}
